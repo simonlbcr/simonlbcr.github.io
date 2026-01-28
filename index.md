@@ -8,7 +8,3 @@ profile_picture:
 <p>
   Hi ! I'm Simon, I'm building data products. On the side, i'm working part-time as a data analyst for <a href="https://crisp.chat">Crisp</a>. Feel free to reach out.
 </p>
-
-<p>
-  The page theme is from <a href="https://github.com/eliottvincent/bay">Eliott Vincent</a>.
-</p>
