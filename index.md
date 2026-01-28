@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Hi ! I'm Simon, I'm building data products. On the side, i'm working part-time as a data analyst for <a href="https://crisp.chat">Crisp</a>. Feel free to reach out.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  The page theme is from <a href="https://github.com/eliottvincent/bay">Eliott Vincent</a>.
 </p>
