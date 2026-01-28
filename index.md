@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi! I'm Simon, I'm a data engineer with entrepreneurial ambitions. I'm currently building crawler.guru.
+  Hi! I'm Simon, I'm a data engineer with entrepreneurial ambitions. I'm currently building <a href="https://crawler.guru">crawler.guru</a>.
 </p>
 
 <p>
