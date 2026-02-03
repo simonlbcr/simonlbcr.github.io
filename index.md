@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi! I'm Simon, a data engineer building <a href="https://crawler.guru">crawler.guru</a>, a tool that audits data scraping vulnerabilities for any website.
+  Hi! I'm Simon, a data engineer building <a href="https://crawler.guru">crawler.guru</a>, a tool that shows businesses how bots are harvesting their data.
 </p>
 
 <p>
