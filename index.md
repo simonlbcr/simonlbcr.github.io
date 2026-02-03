@@ -6,13 +6,13 @@ profile_picture:
 ---
 
 <p>
-  Hi! I'm Simon, I'm a data engineer with entrepreneurial ambitions. I'm currently building <a href="https://crawler.guru">crawler.guru</a>.
+  Hi! I'm Simon, a data engineer building <a href="https://crawler.guru">crawler.guru</a>, a tool that audits data scraping vulnerabilities for any website.
 </p>
 
 <p>
-  On the side, i'm working part-time as a data analyst with the amazing <a href="https://crisp.chat">Crisp</a> team, helping them better understand their data to better serve customers.
+  I also work with the great team at <a href="https://crisp.chat">Crisp</a>, helping them turn data into better customer experiences.
 </p>
 
 <p>
-  Feel free to reach out!
+  If you're interested in data engineering, web scraping and bot protection, I'd love to hear from you.
 </p>
