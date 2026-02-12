@@ -13,7 +13,8 @@ header:
     - name: Home
       slug: /
     # - name: Work
-    # - name: Blog
+    - name: Blog
+      slug: https://simonlb.writizzy.com/
 
 footer:
   show_powered_by: true
