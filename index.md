@@ -6,11 +6,12 @@ profile_picture:
 ---
 
 <p>
-  Hi! I'm Simon, a freelance data engineer. 
+  Hi! I'm Simon, a freelance data engineer.
 </p>
 
 <p>
   I currently work with the great team at <a href="https://crisp.chat">Crisp</a>, helping them turn data into better customer experiences.
+  I'm also building <a href="https://tryradius.io">Radius</a>
 </p>
 
 <p>
