@@ -11,7 +11,7 @@ profile_picture:
 
 <p>
   I currently work with the great team at <a href="https://crisp.chat">Crisp</a>, helping them turn data into better customer experiences.
-  I'm also building <a href="https://tryradius.io">Radius</a>
+  I'm also building Beken, a simple Linkedin CRM for freelancers / solo founders / small agencies (not out yet).
 </p>
 
 <p>
